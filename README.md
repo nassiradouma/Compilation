@@ -33,7 +33,7 @@ Note that if you don't specify a file to read, the program will run in terminal-
 
 ## Files
 
-- `Readme.md`
+- `README.md`
 - `main.c`
 - `lexeur.l`
 - `parseur.y`
